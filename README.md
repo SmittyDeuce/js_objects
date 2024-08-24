@@ -1,5 +1,4 @@
-# js_objects
-you will have to comment out each instance of the kybalion when testing a task
+# Digital Library System
 
 ## Problem Statement
 
@@ -51,15 +50,6 @@ You are tasked with creating a JavaScript program that simulates a digital libra
 3. **Filtering and Mapping Books**:
    - Run the `filterBook()` function to get a list of books with 100 or fewer pages.
    - Run the `mapBook()` function to get a list of books with prefixes added to the titles and authors.
-
-## Code Structure
-
-- **`Book` Constructor**: Creates instances of books with properties for title, author, and pages.
-- **`AddBook` Function**: Adds new book instances to the `library` array.
-- **`bookStore` Function**: Allows users to input book details and stores them in the `library` array.
-- **`searchBook` Function**: Searches the `library` for books by title or author and displays the results.
-- **`filterBook` Function**: Filters books with 100 or fewer pages and returns the filtered list.
-- **`mapBook` Function**: Maps over books to add prefixes to the title and author properties.
 
 ## Example Usage
 
