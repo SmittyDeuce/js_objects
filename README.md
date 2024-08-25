@@ -63,3 +63,42 @@ console.log(filteredBooks);
 
 let mappedBooks = mapBook(); // Add prefixes to book titles and authors
 console.log(mappedBooks);
+
+
+
+# Banking Application - JavaScript Program
+
+## Problem Statement
+
+You are tasked with developing a JavaScript program that simulates a simple banking application. The program should allow users to create accounts, deposit funds, withdraw funds, and calculate interest based on specified rates.
+
+## Features
+
+1. **Create Accounts**: Users can create new bank accounts with an account number, balance, and owner.
+2. **Deposit Funds**: Users can deposit money into their accounts.
+3. **Withdraw Funds**: Users can withdraw money from their accounts.
+4. **Calculate Compound Interest**: Users can calculate compound interest based on the balance and a specified interest rate.
+
+## Tasks and Functionality
+
+### Task 1: Create a Constructor Function for the Account Object
+
+**Objective**: Define a constructor function for creating account objects with properties for `accountNumber`, `balance`, and `owner`.
+
+### Task 2: Implement Methods to Deposit and Withdraw Funds
+
+**Objective**: Implement methods within the Account object to allow users to deposit and withdraw funds.
+
+### Task 3: Create a Method to Calculate Compound Interest
+
+**Objective**: Implement a method within the Account object to calculate compound interest based on the current balance and a specified interest rate.
+
+### Expected Outcomes
+
+- **Object Creation**: Students should be able to create objects using constructor functions and manipulate their properties and methods in JavaScript.
+- **Mathematical Operations**: Students should understand how to perform basic mathematical operations and calculations using JavaScript.
+- **Problem Solving**: Students should be able to apply object-oriented principles and mathematical concepts to solve real-world problems, such as financial calculations in a banking application.
+
+## Example Usage
+
+This README covers the entire process, from setting up the account object to implementing methods for managing funds and calculating interest. The banking application simulation should give students a strong foundation in object-oriented programming, mathematical calculations, and real-world problem-solving using JavaScript.
